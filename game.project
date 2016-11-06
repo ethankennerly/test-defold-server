@@ -1,6 +1,7 @@
 [project]
-title = My project
+title = Hello World
 version = 0.1
+write_log = 0
 
 [bootstrap]
 main_collection = /main/main.collectionc
